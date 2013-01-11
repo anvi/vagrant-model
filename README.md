@@ -25,7 +25,8 @@ How to use it
 =============
 
 * fork this project
-* edit the app/conf.php.tmpl to set your database connection
+* copy app/conf.php.tmpl to app/conf.php
+* edit the app/conf.php to set your database connection
 * go to the vagrant directory
 * enter 'vagrant up'
 * open you web browser and go to http://10.0.0.2
